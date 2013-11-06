@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_title">Kick Cinema</string>
+    <string name="settings_title">Kick Cinema Settings</string>
+    
+    <string-array name="sceneNames">
+   		<item>Camp Fire</item>
+   		<item>Lamp</item>
+   		<item>Lights</item>
+   		<item>That’s the show</item>
+    	<item>Traffic</item>
+   		<item>Ocean Wake</item>
+   		<item>River</item>
+   		<item>The Neverending Commute</item>
+   		<item>Anyone want a beer?</item>
+   		<item>Beer 2</item>
+	</string-array>
+	
+    <string-array name="sceneValues">
+   		<item>fire</item>
+   		<item>lamp_light</item>
+   		<item>lights</item>
+   		<item>nyc_claps</item>
+   		<item>nyc_traffic</item>
+   		<item>ocean_wake</item>
+   		<item>river</item>
+   		<item>subway</item>
+   		<item>beer</item>
+   		<item>beer3</item>
+	</string-array>
+	
+
+    
+</resources>
